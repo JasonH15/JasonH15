@@ -52,7 +52,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=csharp,docker,postgres,sql,react,flutter,git,js,typescript,html,css,azure,visualstudio&perline=12" />
+    <img src="https://skillicons.dev/icons?i=net,docker,postgres,mysql,react,flutter,dart,git,js,typescript,html,css,visualstudio&perline=12" />
   </a>
 </p>
 
