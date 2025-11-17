@@ -4,24 +4,24 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">¡Hola! 👋 Soy Jason Hernández</h1></summary>
+    <summary><h1 style="display: inline-block">Jason Hernández — Software Engineer</h1></summary>
+    <summary><h3 style="display: inline-block">Construyo soluciones backend con .NET y Docker, y aplicaciones frontend/mobile con React y Flutter. Me apasiona la arquitectura de software, la automatización y el diseño de sistemas escalables.</h3></summary>
   </ul>
 </div>
 
 
-<!--h2 without bottom border-->
+<!--h2 without bottom border
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">La confusión es parte de la programación</h2></summary>
+    <summary><h2 style="display: inline-block">Software Engineer | .NET & Cloud Enthusiast</h2></summary>
   </ul>
 </div>
+-->
 
 <!--Intro start-->
-- 🔭 Actualmente estoy trabajando con **C#, .NET, Docker, SQL Server, PostgreSQL, React, y Flutter**
-- 🌱 Estoy aprendiendo **más sobre arquitectura escalable y microservicios.**
-- ☁️ Me interesa el **cloud computing**, especialmente en **Azure y AWS.**
-- 💬 Pregúntame sobre **C#, .NET, Docker, React, Flutter, SQL, y PostgreSQL.**
-- 📫 Puedes contactarme en **JasonHdez15.@outlook.com**
+- 🛠️ Tecnologías principales: C#, .NET, SQL Server, PostgreSQL, Docker, React, Flutter
+- 🧩 Intereses actuales: arquitectura de software, microservicios, integración continua y cloud (Azure / AWS)
+- 📬 Contacto: JasonHdez15@outlook.com
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
